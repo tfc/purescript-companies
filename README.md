@@ -21,6 +21,7 @@ Some of these companies support remote hires. Where that information is availabl
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
 [Ambra Health](https://ambrahealth.com) | ? | Medical Imaging Saas | [Reddit](https://www.reddit.com/r/purescript/comments/3mzotb/using_purescript_for_work/cvji3oy/) | ?
+[Applicative Systems](https://applicative.systems) | Germany | Consulting & Training | [Website](https://applicative.systems) | Yes
 [ARoW Co., Ltd.](https://arow.info/index-en.html) | Tokyo, Japan | IT Consulting | [Employee Page](https://functor.tokyo/about) | Yes
 [Atomic IT Solutions](http://atomicits.com/) | Chennai, India | IT Consulting | [Reddit](https://www.reddit.com/r/purescript/comments/63n18c/what_are_you_using_purescript_for/djlfw7a/), [Github](https://github.com/atomicits) | ?
 [Awake Security](http://awakesecurity.com) | Santa Clara, CA, USA | Network Security | [Discourse](https://discourse.purescript.org/t/ui-developer-position-at-awake-security-acquired-by-arista/1943) | Yes (US, Canada, India, Ireland Only)
